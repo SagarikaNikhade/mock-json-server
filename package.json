@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wave2211/mock-json-server.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wave2211/mock-json-server/issues"
+  },
+  "homepage": "https://github.com/wave2211/mock-json-server#readme",
   "dependencies": {
     "json-server": "^0.17.3"
   }
